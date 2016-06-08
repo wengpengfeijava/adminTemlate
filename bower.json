@@ -1,0 +1,17 @@
+{
+  "name": "adminTemplate",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "wengpengfeijava <wengpengfeijava@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wengpengfeijava/adminTemlate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
